@@ -1,3 +1,4 @@
+package primeirasAulas;
 /*
  * HelloWorld = nome da minha classe
  * public = tipo de acesso da classe
